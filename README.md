@@ -1,5 +1,7 @@
 # Multiclass Object Detection with YOLO v1 from Scratch
 
+Video Link : https://youtu.be/yi6a08KEjIk?si=21NJVm1iguokPmYU
+
 ## Introduction
 In this project, I have developed a  multiclass object detection model using the YOLO v1 (You Only Look Once) architecture from scratch. The YOLO model is a popular and efficient object detection algorithm that can simultaneously detect and classify multiple objects within an image.
 
